@@ -4,7 +4,7 @@ Now that you have built your pulse rate algorithm and tested your algorithm to k
 
 Specifically, you will use 24 hours of heart rate data from 1500 samples to try to validate the well known trend that average resting heart rate increases up until middle age and then decreases into old age. We'll also see if resting heart rates are higher for women than men. See the trend illustrated in this image:
 
-![heart-rate-age-ref-chart](././readme.img/heart-rate-age-reference-chart.jpg)
+![heart-rate-age-ref-chart](../readme.img/heart-rate-age-reference-chart.jpg)
 
 Follow the steps in the `clinical_app_starter.ipynb` to reproduce this result!
 
